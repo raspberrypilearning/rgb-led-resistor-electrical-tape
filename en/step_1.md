@@ -34,7 +34,7 @@ Cut a small piece of electrical tape and stick it around the twisted resistor. T
 Add a resistor secured with electrical tape to the green and blue legs of the RGB LED.
 
 
-![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape.png)
+![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape-three.png)
 
 ## Attach the four jumper wires
 
