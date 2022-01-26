@@ -47,3 +47,9 @@ Attach the other jumper wire to the cathode leg of the LED.
 ![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.png)
 
 **TIP**: If any connections are loose you can twist them. You can also add more electrical tape around all the wires to reduce the strain on the joints.
+
+You can group all the jumper wires together and wrap electrical tape around them, make sure that you separate metal legs and wires so that they don't touch. If you have a clear RGB LED then invisible sticky tape can be used to diffuse the light.
+
+![RGB LED with resistors and four jumper wires, wrapped in electrical tape.](images/rgb-led-finished.png)
+
+
