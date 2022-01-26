@@ -1,59 +1,49 @@
-## Introduction
+## Gather components
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You will need:
++ 4 x socket-socket jumper wires, ideally including red, green and blue
++ 3 x resistor, 100 Ohm, 220 Ohm or 470 Ohm
++ 1 x common cathode RGB LED
++ Electrical tape, ideally any colour is fine
++ Scissors
 
-### What you will make
+![An image showing four jumper wires, electrical tape, an RGB LED, three resistors and a pair of scissors.](images/you-will-need.jpg)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+## Find the red leg of the RGB LED
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+A common cathode RGB LED has one longer leg which is the cathode. Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.  
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![An RGB LED with four legs, the second one is longer.](images/rgb-legs.png){:width="300px"}
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Carefully separate the red leg of the LED.
 
-+ A computer or tablet capable of running Scratch 3
+## Twist the resistor around the red leg of the LED
 
-### Software
+Bend one of the legs of the resistor around the red leg of the LED. Twist the resistor leg around the LED leg around three times. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![The leg of a resistor is twisted around the red leg of an LED.](images/twist-leg.jpg)
 
-### Downloads
+## Secure the resistor with electrical tape
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
 
---- /collapse ---
+![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
 
---- collapse ---
----
-title: What you will learn
----
+## Repeat for the green and blue legs
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+Add a resistor secured with electrical tape to the green and blue legs of the RGB LED.
 
---- /collapse ---
 
---- collapse ---
----
-title: Additional information for educators
----
+![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape.jpg)
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+## Attach the four jumper wires
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+Attach ae jumper wire to the other end of each resistor. You can optionally cut around 1cm from the end of each resistor wire to make it easier to push the wire into the jumper wire sockets. It's helpful if the jumper wires matches the colours of the legs but not essential.
 
---- /collapse ---
+You can also use extra electrical tape to insulate the resistor legs so that they don't accidentally touch. This will also help to secure the jumper wires. 
+
+Attach the other jumper wire to the cathode leg of the LED.
+
+![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+
+**TIP**: If any connections are loose you can twist them. You can also add more electrical tape around all the wires to reduce the strain on the joints.
