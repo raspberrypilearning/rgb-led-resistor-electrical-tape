@@ -2,7 +2,7 @@
 
 You will need:
 + 4 x socket-socket jumper wires, ideally including red, green and blue
-+ 3 x resistor, 100 Ohm, 220 Ohm or 470 Ohm
++ 3 x same value resistors, around 220 Ohm (100 Ohm or 470 Ohm are also fine)
 + 1 x common cathode RGB LED
 + Electrical tape, ideally any colour is fine
 + Scissors
