@@ -13,7 +13,7 @@ You will need:
 
 A common cathode RGB LED has one longer leg which is the cathode. Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.  
 
-![An RGB LED with four legs, the second one is longer.](images/rgb-legs.png)
+![An RGB LED with four legs, the second one is longer.](images/rgb-led-legs.png)
 
 Carefully separate the red leg of the LED.
 
