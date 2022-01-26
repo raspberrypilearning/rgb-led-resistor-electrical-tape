@@ -11,7 +11,7 @@ You will need:
 
 ## Find the red leg of the RGB LED
 
-A common cathode RGB LED has one longer leg which is the cathode. Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.  
+A common cathode RGB LED has one longer leg which is the cathode and needs to be connected to ground (GND). Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.  
 
 ![An RGB LED with four legs, the second one is longer.](images/rgb-led-legs.png)
 
