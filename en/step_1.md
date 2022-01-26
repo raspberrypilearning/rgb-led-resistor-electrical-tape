@@ -7,13 +7,13 @@ You will need:
 + Electrical tape, ideally any colour is fine
 + Scissors
 
-![An image showing four jumper wires, electrical tape, an RGB LED, three resistors and a pair of scissors.](images/you-will-need.jpg)
+![An image showing four jumper wires, electrical tape, an RGB LED, three resistors and a pair of scissors.](images/you-will-need.png)
 
 ## Find the red leg of the RGB LED
 
 A common cathode RGB LED has one longer leg which is the cathode. Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.  
 
-![An RGB LED with four legs, the second one is longer.](images/rgb-legs.png){:width="300px"}
+![An RGB LED with four legs, the second one is longer.](images/rgb-legs.png)
 
 Carefully separate the red leg of the LED.
 
@@ -21,20 +21,20 @@ Carefully separate the red leg of the LED.
 
 Bend one of the legs of the resistor around the red leg of the LED. Twist the resistor leg around the LED leg around three times. 
 
-![The leg of a resistor is twisted around the red leg of an LED.](images/twist-leg.jpg)
+![The leg of a resistor is twisted around the red leg of an LED.](images/twist-leg.png)
 
 ## Secure the resistor with electrical tape
 
 Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
+![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.png)
 
 ## Repeat for the green and blue legs
 
 Add a resistor secured with electrical tape to the green and blue legs of the RGB LED.
 
 
-![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape.jpg)
+![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape.png)
 
 ## Attach the four jumper wires
 
@@ -44,6 +44,6 @@ You can also use extra electrical tape to insulate the resistor legs so that the
 
 Attach the other jumper wire to the cathode leg of the LED.
 
-![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.png)
 
 **TIP**: If any connections are loose you can twist them. You can also add more electrical tape around all the wires to reduce the strain on the joints.
