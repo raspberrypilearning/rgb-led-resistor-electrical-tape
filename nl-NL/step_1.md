@@ -1,55 +1,55 @@
-## Gather components
+## Verzamel onderdelen
 
-You will need:
-+ 4 x socket-socket jumper wires, ideally including red, green and blue
-+ 3 x same value resistors, around 220 Ohm (100 Ohm or 470 Ohm are also fine)
-+ 1 x common cathode RGB LED
-+ Electrical tape, any colour is fine
-+ Scissors
+Je hebt nodig:
++ 4 x socket-socket jumperdraden, bij voorkeur rood, groen en blauw
++ 3 x weerstanden van gelijke waarde, ongeveer 220 Ohm (100 Ohm of 470 Ohm is ook prima)
++ 1× RGB-led met gemeenschappelijke kathode
++ Isolatietape, elke kleur is prima
++ Schaar
 
-![An image showing four jumper wires, electrical tape, an RGB LED, three resistors and a pair of scissors.](images/you-will-need.png)
+![Een afbeelding met twee verbindingsdraden, isolatietape, een LED, een weerstand en een schaar.](images/you-will-need.png)
 
-## Find the red leg of the RGB LED
+## Zoek de rode aansluiting van de RGB-led
 
-A common cathode RGB LED has one longer leg which is the cathode and needs to be connected to ground (GND). Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.
+Een kathode van een RGB-led heeft gewoonlijk één langere poot, de kathode en moet worden aangesloten op aarde (GND). Controleer de specificatie van je RGB-led, maar de volgorde van de poten is meestal rood, kathode (langere poot), groen, blauw.
 
-![An RGB LED with four legs, the second one is longer.](images/rgb-led-legs.png)
+![Een RGB LED met vier poten, de tweede is langer.](images/rgb-led-legs.png)
 
-Carefully separate the red leg of the LED.
+Neem de rode poot van de LED voorzichtig apart.
 
-## Twist the resistor around the red leg of the LED
+## Draai de weerstand rond de rode aansluiting van de LED
 
-Bend one of the legs of the resistor around the red leg of the LED. Twist the resistor leg around the LED leg around three times.
+Buig een van de poten van de weerstand om de rode aansluiting van de LED. Draai de weerstand drie keer rond de LED-aansluiting.
 
-![The leg of a resistor is twisted around the red leg of an LED.](images/twist-leg.png)
+![Een zijde van een weerstand is gedraaid om de rode aansluiting van een LED.](images/twist-leg.png)
 
-## Secure the resistor with electrical tape
+## Zet de weerstand vast met isolatietape
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+Knip een klein stukje isolatietape en plak het rond de gedraaide weerstand. Dit zal het een beetje veiliger maken.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.png)
+![Isolatietape is rond het gedraaide deel van een weerstand geplaatst.](images/elec-tape.png)
 
-## Repeat for the green and blue legs
+## Herhaal dit voor de groene en blauwe aansluitingen
 
-Add a resistor secured with electrical tape to the green and blue legs of the RGB LED.
+Voeg een weerstand toe die met isolatietape is vastgezet aan de groene en blauwe aansluitingen van de RGB-led.
 
 
-![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape-three.png)
+![Weerstanden en isolatietape zijn bevestigd aan drie poten van een RGB-led.](images/elec-tape-three.png)
 
-## Attach the four jumper wires
+## Bevestig de vier jumperdraden
 
-Attach ae jumper wire to the other end of each resistor. You can optionally cut around 1cm from the end of each resistor wire to make it easier to push the wire into the jumper wire sockets. It's helpful if the jumper wires matches the colours of the legs but not essential.
+Sluit een jumperdraad aan op het andere uiteinde van de weerstand. Je kan ook ongeveer 1 cm van het uiteinde van elke weerstandsdraad afknippen om het gemakkelijker te maken om de draad in de jumperaansluitingen te duwen. Het is handig als de jumperdraden overeenkomen met de kleuren van de poten, maar niet essentieel.
 
-You can also use extra electrical tape to insulate the resistor legs so that they don't accidentally touch. This will also help to secure the jumper wires.
+Je kunt ook extra isolatietape gebruiken om de weerstandspoten te isoleren, zodat ze elkaar niet per ongeluk raken. Dit zal ook helpen om de jumperdraden vast te zetten.
 
-Attach the other jumper wire to the cathode leg of the LED.
+Bevestig de andere jumperdraad aan de kathode van de LED.
 
-![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.png)
+![Vier jumperdraden zijn bevestigd aan een LED en een weerstand.](images/jumper-wires.png)
 
-**TIP**: If any connections are loose you can twist them. You can also add more electrical tape around all the wires to reduce the strain on the joints.
+**TIP**: Als er verbindingen los zitten, kun je deze met draaien vaster zetten. Je kunt ook meer isolatietape rond alle draden toevoegen om de belasting op de verbindingen te verminderen.
 
-You can group all the jumper wires together and wrap electrical tape around them, make sure that you separate metal legs and wires so that they don't touch. If you have a clear RGB LED then invisible sticky tape can be used to diffuse the light.
+Je kunt alle jumperdraden groeperen en er isolatietape omheen wikkelen, zorg ervoor dat je de metalen delen van poten en draden van elkaar scheidt zodat ze elkaar niet raken. Als je een heldere RGB-led hebt, kan transparante plakband worden gebruikt om het licht te verspreiden.
 
-![RGB LED with resistors and four jumper wires, wrapped in electrical tape.](images/rgb-led-finished.png)
+![RGB-led met weerstanden en vier jumperdraden, omwikkeld met isolatietape.](images/rgb-led-finished.png)
 
 
