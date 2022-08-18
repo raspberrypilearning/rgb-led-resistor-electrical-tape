@@ -1,55 +1,55 @@
-## Gather components
+## Rassembler les composants
 
-You will need:
-+ 4 x socket-socket jumper wires, ideally including red, green and blue
-+ 3 x same value resistors, around 220 Ohm (100 Ohm or 470 Ohm are also fine)
-+ 1 x common cathode RGB LED
-+ Electrical tape, any colour is fine
-+ Scissors
+Tu auras besoin de :
++ 4 x fils de liaison prise-prise, comprenant idéalement un rouge, un vert et un bleu
++ 3 x résistances de même valeur, environ 220 Ohm (100 Ohm ou 470 Ohm conviennent également)
++ 1 × LED RVB à cathode commune
++ Du ruban électrique, n'importe quelle couleur convient
++ Des ciseaux
 
-![An image showing four jumper wires, electrical tape, an RGB LED, three resistors and a pair of scissors.](images/you-will-need.png)
+![Une image montrant quatre fils de liaison, du ruban isolant, une LED, trois résistances et une paire de ciseaux.](images/you-will-need.png)
 
-## Find the red leg of the RGB LED
+## Trouver la patte rouge de la LED RVB
 
-A common cathode RGB LED has one longer leg which is the cathode and needs to be connected to ground (GND). Check the specification for your RGB LED but the order of the legs is usually red, cathode (longer leg), green, blue.
+Une LED RVB à cathode commune a une patte plus longue qui est la cathode et doit être connectée à la terre (GND). Vérifie les spécifications de ta LED RVB, mais l'ordre des pattes est généralement rouge, cathode (patte plus longue), vert, bleu.
 
-![An RGB LED with four legs, the second one is longer.](images/rgb-led-legs.png)
+![Une LED RVB à quatre pattes, la seconde est plus longue.](images/rgb-led-legs.png)
 
-Carefully separate the red leg of the LED.
+Sépare soigneusement la patte rouge de la LED.
 
-## Twist the resistor around the red leg of the LED
+## Enrouler une des pattes de la résistance autour de la patte rouge de la LED
 
-Bend one of the legs of the resistor around the red leg of the LED. Twist the resistor leg around the LED leg around three times.
+Plie l'une des pattes de la résistance autour de la patte rouge de la LED. Tourne la patte de la résistance autour de la patte de la LED environ trois fois.
 
-![The leg of a resistor is twisted around the red leg of an LED.](images/twist-leg.png)
+![La patte d'une résistance est enroulée autour de la patte rouge d'une LED.](images/twist-leg.png)
 
-## Secure the resistor with electrical tape
+## Fixer la résistance avec du ruban isolant
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+Coupe un petit morceau de ruban isolant et colle-le autour de la résistance torsadée. Cela contribuera à la rendre un peu plus résistante.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.png)
+![Du ruban isolant est placé autour de la patte torsadée d'une résistance.](images/elec-tape.png)
 
-## Repeat for the green and blue legs
+## Répéter l'opération pour les jambes vertes et bleues
 
-Add a resistor secured with electrical tape to the green and blue legs of the RGB LED.
+Ajoute une résistance fixée avec du ruban électrique aux pattes verte et bleue de la LED RVB.
 
 
-![Resistors and electrical tape are attached to three legs of an RGB LED.](images/elec-tape-three.png)
+![Des résistances et du ruban électrique sont fixés aux trois pattes d'une LED RVB.](images/elec-tape-three.png)
 
-## Attach the four jumper wires
+## Fixer les quatre câbles de connexion
 
-Attach ae jumper wire to the other end of each resistor. You can optionally cut around 1cm from the end of each resistor wire to make it easier to push the wire into the jumper wire sockets. It's helpful if the jumper wires matches the colours of the legs but not essential.
+Attache un fil de liaison à l'autre extrémité de chaque résistance. Tu peux éventuellement couper environ 1 cm de l'extrémité de chaque fil des résistances pour faciliter l'insertion du fil dans les prises des fils de liaison. Il est utile que les fils de liaison correspondent aux couleurs des pattes, mais ce n'est pas essentiel.
 
-You can also use extra electrical tape to insulate the resistor legs so that they don't accidentally touch. This will also help to secure the jumper wires.
+Tu peux également utiliser du ruban électrique supplémentaire pour isoler les pattes de la résistance afin qu'elles ne se touchent pas accidentellement. Cela aidera également à sécuriser les fils de liaison.
 
 Attach the other jumper wire to the cathode leg of the LED.
 
-![Four jumper wires are attached to an LED and a resistor.](images/jumper-wires.png)
+![Quatre câbles de liaison sont attachés à une LED et à une résistance.](images/jumper-wires.png)
 
-**TIP**: If any connections are loose you can twist them. You can also add more electrical tape around all the wires to reduce the strain on the joints.
+**ASTUCE**: Si des connexions sont desserrées, tu peux les torsader. Tu peux également ajouter plus de ruban électrique autour de tous les fils pour réduire la tension sur les joints.
 
-You can group all the jumper wires together and wrap electrical tape around them, make sure that you separate metal legs and wires so that they don't touch. If you have a clear RGB LED then invisible sticky tape can be used to diffuse the light.
+Tu peux regrouper tous les câbles de connexion et enrouler du ruban électrique autour d'eux, assure-toi de séparer les pattes métalliques et les fils afin qu'ils ne se touchent pas. Si tu as une LED RVB claire, du ruban adhésif invisible peut être utilisé pour diffuser la lumière.
 
-![RGB LED with resistors and four jumper wires, wrapped in electrical tape.](images/rgb-led-finished.png)
+![LED RVB avec résistances et quatre fils de liaison, enveloppés dans du ruban électrique.](images/rgb-led-finished.png)
 
 
