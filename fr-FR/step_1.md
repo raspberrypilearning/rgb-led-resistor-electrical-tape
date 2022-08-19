@@ -42,7 +42,7 @@ Attache un fil de liaison à l'autre extrémité de chaque résistance. Tu peux 
 
 Tu peux également utiliser du ruban électrique supplémentaire pour isoler les pattes de la résistance afin qu'elles ne se touchent pas accidentellement. Cela aidera également à sécuriser les fils de liaison.
 
-Attach the other jumper wire to the cathode leg of the LED.
+Attache l'autre fil de liaison à la patte négative de la LED.
 
 ![Quatre câbles de liaison sont attachés à une LED et à une résistance.](images/jumper-wires.png)
 
